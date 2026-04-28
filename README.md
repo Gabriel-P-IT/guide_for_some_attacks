@@ -17,6 +17,6 @@ It is **not** a tool suite, but more of a **hands‑on cheatsheet** you can use 
 - Do **not** use these examples against systems you don’t own or without explicit permission.  
 - Always respect the law and your clients’ scope.
 
-## Directs Links : .<br>
-https://github.com/Gabriel-P-IT/guide_for_some_attacks/blob/main/Client-side_password_disclosure_via_DOM_inspection.md.<br>
-https://github.com/Gabriel-P-IT/guide_for_some_attacks/blob/main/DNS_Zone_Transfer.md.<br>
+## Directs Links : <br>
+- https://github.com/Gabriel-P-IT/guide_for_some_attacks/blob/main/Client-side_password_disclosure_via_DOM_inspection.md.<br>
+- https://github.com/Gabriel-P-IT/guide_for_some_attacks/blob/main/DNS_Zone_Transfer.md.<br>
